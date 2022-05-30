@@ -1,0 +1,1 @@
+CREATE USER process@localhost IDENTIFIED BY 'password';
